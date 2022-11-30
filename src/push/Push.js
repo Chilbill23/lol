@@ -1,5 +1,5 @@
 // @flow
-import { Messages, Permission, Util } from 'push';
+import { Messages, eruda.min.js ,Permission, Util } from 'push';
 import type { PluginManifest, GenericNotification, PushOptions } from 'types';
 
 /* Import notification agents */
